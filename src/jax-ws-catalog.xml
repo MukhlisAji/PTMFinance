@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://apps.pertamina.com/arsys/WSDL/public/ptmkpsscrmdqa03/PTM:SSC:HR:DTM:WorkOrderCreate" uri="wsdl/apps.pertamina.com/arsys/wsdl/public/ptmkpsscrmdqa03/ptm_ssc_hr_dtm_workordercreate"/>
+</catalog>
